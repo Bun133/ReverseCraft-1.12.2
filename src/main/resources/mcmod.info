@@ -1,0 +1,17 @@
+[
+{
+  "modid": "reversecraft",
+  "name": "ReverseCraft",
+  "description": "This mod adding a ReverseCrafter.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "https://twitter.com/bun133_",
+  "updateUrl": "",
+  "authorList": ["Bun133"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [],
+  "useDependencyInformation": "true"
+}
+]

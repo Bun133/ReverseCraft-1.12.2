@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "facing=north": { "model": "rsc:reversecrafter" },
+    "facing=east": { "model": "rsc:reversecrafter", "y": 90 },
+    "facing=south": { "model": "rsc:reversecrafter", "y": 180 },
+    "facing=west": { "model": "rsc:reversecrafter", "y": 270 }
+  }
+}
